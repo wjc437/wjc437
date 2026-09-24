@@ -24,4 +24,8 @@ Automation identity: [`carmody-bot`](https://github.com/carmody-bot) opens agent
 - Building a personal delivery lab (`carmody-lab` / `delivery-lab`) to practice Agile hierarchy, wiki tenets, and board-as-team with AI assistants
 - Studying Databricks GenAI foundations: Unity Catalog vs Gateway, grounding/RAG, compound AI systems
 
+## Care about
+
+Problems where governed data and clear operating models matter more than demos — delivery craft, BA work, and GenAI that sits inside real access rules.
+
 <!-- Profile README for github.com/wjc437 — AB#1 -->
